@@ -1,0 +1,5 @@
+cd D:/WebProject/node_js
+AND
+cd D:/WebProject/react_js
+npm install
+npm start
